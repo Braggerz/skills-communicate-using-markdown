@@ -7,5 +7,5 @@ print(f"Hello World!")
 ```
 
 # Task List
-[x] Start this course
-[ ] Finish this course
+- [x] Start this course
+- [ ] Finish this course
